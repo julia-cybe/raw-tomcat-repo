@@ -21,6 +21,7 @@ public class Constants {
     // Servlet spec schemes are defined in HttpServletRequest
     // Vendor specific schemes
     public static final String SPNEGO_METHOD = "SPNEGO";
+    public static final String BEARER_METHOD = "BEARER";
 
     // Form based authentication constants
     public static final String FORM_ACTION = "/j_security_check";
